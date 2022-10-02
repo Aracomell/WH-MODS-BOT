@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Cadbury_mly'
-global.sgh = 'github.com/krizynofc' //github
+global.sig = 'https://instagram.com/rizkyrajinsekolah5'
+global.sgh = 'github.com/Aracomell' //github
 global.sgc = 'https://chat.whatsapp.com/GU6aanJJuz3ARqH1LeFY9W' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/c/hokenbeusz' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.pdana = '085942139006' //dana
+global.povo = '089504231588' //ovo
+global.pgopay = '089504231588' //gopay
+global.plinkaja = '085942139006' //link aja
+global.ppulsa = '089504231588' //telkomsel
+global.ppulsa2 = '085942139006' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/kricom'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601123065180'
-global.nomorown = '601127833767'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'Cadbury Ensem'
+global.nomorbot = '6289519894515'
+global.nomorown = '6289504231588'
+global.namebot = 'VIN-MODS-BOT-V1'
+global.nameown = 'Kvinn Ensem'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628XXXXXXXXXX', 'WH MODS DEV', true],
+  ['6289504231588', 'WH MODS DEV', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
